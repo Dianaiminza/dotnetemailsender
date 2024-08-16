@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentEmailExampleApp", "FluentEmailExampleApp\FluentEmailExampleApp.csproj", "{8367EE07-4510-4ADA-B212-212AD9C6E339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8367EE07-4510-4ADA-B212-212AD9C6E339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8367EE07-4510-4ADA-B212-212AD9C6E339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8367EE07-4510-4ADA-B212-212AD9C6E339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8367EE07-4510-4ADA-B212-212AD9C6E339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FE9526-D770-4A55-9D8A-4F91CB628508}
+	EndGlobalSection
+EndGlobal
